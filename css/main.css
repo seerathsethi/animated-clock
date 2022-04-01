@@ -21,6 +21,7 @@ html {
 .clock-center {
   bottom: calc(50% - 14px);
   left: calc(50% - 14px);
+  
   width: 28px;
   position: absolute;
 }
